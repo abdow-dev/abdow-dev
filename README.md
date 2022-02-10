@@ -7,12 +7,18 @@
 
 - 👨‍💻 All of my projects are available at [https://www.abdow.dev](https://www.abdow.dev)
 
+- 📝 I regularly write articles on [https://www.abdow.dev/blog](https://www.abdow.dev/blog)
+
 - 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **abdow.dev@gmail.com**
 
+- 📄 Know about my experiences [https://www.abdow.dev#experiences](https://www.abdow.dev#experiences)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/egyunique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egyunique" height="30" width="40" /></a>
+<a href="https://fb.com/alnukhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alnukhami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

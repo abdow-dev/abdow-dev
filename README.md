@@ -18,22 +18,93 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdow-dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdow-dev" height="30" width="40" />
-  Github
- </a>
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+       alt="abdow-dev"
+       height="30"
+       width="40" />
+  Codepen
+</a>
   
   <br>
   <br>
   
 <a href="https://twitter.com/egyunique" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egyunique" height="30" width="40" />
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+       alt="egyunique"
+       height="30"
+       width="40" />
   Twitter
 </a>
-<a href="https://linkedin.com/in/abdalrhman-emad-saad-90943420b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalrhman-emad-saad-90943420b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16904368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16904368" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abdow-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdow-dev" height="30" width="40" /></a>
-<a href="https://fb.com/alnukhami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alnukhami" height="30" width="40" /></a>
-<a href="https://instagram.com/abdow.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdow.dev" height="30" width="40" /></a>
+  
+  <br>
+  <br>
+  
+<a href="https://linkedin.com/in/abdalrhman-emad-saad-90943420b" target="blank">
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="abdalrhman-emad-saad-90943420b"
+       height="30"
+       width="40" />
+  Linked
+</a>
+  
+  <br>
+  <br>
+  
+<a href="https://stackoverflow.com/users/16904368" target="blank">
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+       alt="16904368"
+       height="30"
+       width="40" />
+  Stack-overflow
+</a>
+  
+  <br>
+  <br>
+  
+<a href="https://codesandbox.com/abdow-dev" target="blank">
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+       alt="abdow-dev"
+       height="30"
+       width="40" />
+  Codesandbox
+</a>
+  
+  <br>
+  <br>
+  
+<a href="https://fb.com/alnukhami" target="blank">
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       alt="alnukhami"
+       height="30"
+       width="40" />
+  Facebook
+</a>
+
+  <br>
+  <br>
+
+<a href="https://instagram.com/abdow.dev" target="blank">
+  <img
+       align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="abdow.dev"
+       height="30"
+       width="40" />
+  Instagram
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

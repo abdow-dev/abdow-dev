@@ -19,10 +19,16 @@
 <p align="left">
 <a href="https://codepen.io/abdow-dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdow-dev" height="30" width="40" />
-  *Github*
+  Github
  </a>
+  
   <br>
-<a href="https://twitter.com/egyunique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egyunique" height="30" width="40" /></a>
+  <br>
+  
+<a href="https://twitter.com/egyunique" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egyunique" height="30" width="40" />
+  Twitter
+</a>
 <a href="https://linkedin.com/in/abdalrhman-emad-saad-90943420b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdalrhman-emad-saad-90943420b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16904368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16904368" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdow-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdow-dev" height="30" width="40" /></a>
